@@ -1,3 +1,13 @@
 {
-  "access_codes": []
+  "access_codes": [
+    {
+      "code": "TOUR2024-PARADISE-XYZ123",
+      "business_name": "Paradise Tours",
+      "type": "hotel",
+      "ids": [41],
+      "status": "active",
+      "created_at": "2024-01-15",
+      "notes": "Main tour operator account"
+    }
+  ]
 }
